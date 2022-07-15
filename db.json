@@ -1,0 +1,46 @@
+{
+  "film": [
+    {
+      "judul": "Dune: Part One",
+      "pemain": "Zendaya, Rebecca Ferguson, Timothee Chalamet",
+      "tahun": "2021",
+      "rating": "8.2"
+    },
+    {
+      "judul": "Tomorrow War",
+      "pemain": "Chris Pratt, Yvonne Strahovski, J.K Simmons",
+      "tahun": "2021",
+      "rating": "6.6"
+    },
+    {
+      "judul": "Greyhound",
+      "pemain": "Tom Hanks, Elisabeth Shue, Stephen Graham",
+      "tahun": "2020",
+      "rating": "7.0"
+    },
+    {
+      "judul": "Greenland",
+      "pemain": "Gerard Butler, Morena Baccarin, Roger Dale Floyd",
+      "tahun": "2020",
+      "rating": "6.4"
+    },
+    {
+      "judul": "Midway",
+      "pemain": "Ed Skrein, Patrick Wilson, Woody Harrelson",
+      "tahun": "2019",
+      "rating": "6.7"
+    },
+    {
+      "judul": "Ready Player One",
+      "pemain": "Tye Sheridan, Olivia Cooke, Ben Mendelsohn",
+      "tahun": "2018",
+      "rating": "7.4"
+    },
+    {
+      "judul": "Passengers",
+      "pemain": "Jennifer Lawrence, Chris Pratt, Michael Sheen",
+      "tahun": "2016",
+      "rating": "7.0"
+    }
+  ]
+}
